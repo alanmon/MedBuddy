@@ -5,7 +5,6 @@
     android:layout_gravity="center"
     android:columnCount="2"
     android:orientation="horizontal"
-    android:padding="@dimen/default_gap"
     android:rowCount="3" >
 
     <ImageButton
@@ -19,7 +18,7 @@
     
     <ImageButton
         android:id="@+id/b_history"
-        android:layout_width="185dp"
+        android:layout_width="187dp"
         android:layout_height="140dp"
         android:layout_column="1"
         android:layout_gravity="fill"
