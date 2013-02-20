@@ -50,7 +50,7 @@ public class Loginpage extends Activity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_home_page);
-
+        
         final View controlsView = findViewById(R.id.fullscreen_content_controls);
         final View contentView = findViewById(R.id.fullscreen_content);
 
