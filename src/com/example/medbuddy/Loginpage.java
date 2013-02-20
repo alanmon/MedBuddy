@@ -16,7 +16,7 @@ import android.view.View;
  *
  * @see SystemUiHider
  */
-public class HomePage extends Activity {
+public class Loginpage extends Activity {
     /**
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
