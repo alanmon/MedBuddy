@@ -29,6 +29,14 @@
             android:name="com.example.medbuddy.P_childControlPanel"
             android:label="@string/title_activity_p_child_control_panel" >
         </activity>
+        <activity
+            android:name="com.example.medbuddy.P_quicklog"
+            android:label="@string/title_activity_p_quicklog"
+            android:parentActivityName="com.example.medbuddy.P_childControlPanel" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.medbuddy.P_childControlPanel" />
+        </activity>
     </application>
 
 </manifest>
