@@ -8,5 +8,6 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_p_quicklog">P_quicklog</string>
+    <string name="title_activity_p__medication">P_Medication</string>
 
 </resources>
